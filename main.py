@@ -1,4 +1,6 @@
 wada
 print("radadar)
+este es mi primer cambio
 
-print(goku)
+      
+prin(goku)
