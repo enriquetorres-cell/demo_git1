@@ -1,4 +1,5 @@
 Primer proycto
 print("goku")
 print("wdma" )
-print(wma)
+print(wmai
+goku le gana)
